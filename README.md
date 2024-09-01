@@ -1,6 +1,8 @@
 <h2> Hi there 👋, I'm Rin! </h2>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tcrin&show_icons=true&theme=github_dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tcrin&show_icons=true&theme=github_dark) <br/>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tcrin&theme=github-dark-dimmed&hide_border=true)](https://git.io/streak-stats)<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tcrin)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **tcrin/tcrin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
