@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Otis Tran</h1>
+<h1 align="center">Hi 👋, I'm Rin</h1>
 <h3 align="center">Passionate about Exploring Blockchain | Android Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tcrin&label=Profile%20views&color=0e75b6&style=flat" alt="tcrin" /> </p>
